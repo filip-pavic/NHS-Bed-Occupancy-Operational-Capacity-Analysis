@@ -55,7 +55,7 @@ To solve this, for all calculations in this project I used **weighted totals** (
 ---
 ## 4. Dashboard
 
-<img width="1363" height="765" alt="image" src="https://github.com/user-attachments/assets/61de08ba-83e3-4111-9034-27429e065dca" />
+<img width="1365" height="761" alt="image" src="https://github.com/user-attachments/assets/a897619d-4f69-4dd3-9bce-57cc0b735208" />
 
 The dashboard is structured for quick readability:
 
